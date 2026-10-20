@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-20",
+  "distribution": "omarchy-neon-district-1997-theme",
+  "status": "LOCAL_INITIAL_COMMIT_READY_FOR_REMOTE_PUBLICATION_AUTHORIZATION",
+  "protected_entries_unchanged": 191,
+  "concurrent_personal_configuration_changes_observed": 1,
+  "personal_configurations_written_by_task": false,
+  "activation_backup_archive_hash_verified": true,
+  "backup_restore_instructions_preserved": true,
+  "privacy_scan_findings": 0,
+  "public_remote_created": false,
+  "push_executed": false,
+  "active_theme_changed": false,
+  "latest_review": "docs/final-audit.json",
+  "license": {
+    "id": "MIT",
+    "copyright": "Copyright (c) 2026 Litotep",
+    "scope": "original_code_scripts_configuration_documentation_prompts_where_licensable",
+    "graphics": "excluded",
+    "finalized_stage": "5.2"
+  },
+  "author_identity": "Litotep; email explicitly provided by user; command-scoped configuration"
+}

@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-20",
+  "stage": "5.1",
+  "version": "1.0.0",
+  "license": {
+    "selected": "MIT",
+    "scope": "original_code_scripts_configuration_documentation_prompts_where_licensable",
+    "copyright_holder": "Litotep",
+    "license_file": "finalized_standard_MIT_terms_copyright_2026_Litotep",
+    "graphics": "separate_documented_distribution_basis_excluded_from_MIT",
+    "documentation_and_prompts": "MIT_where_original_and_licensable",
+    "finalized_in_stage": "5.2"
+  },
+  "checks": {
+    "required_files_present": true,
+    "toml_json": true,
+    "wallpaper_hashes_format_and_dimensions": true,
+    "no_personal_image_metadata_detected": true,
+    "no_broken_local_markdown_links": true,
+    "no_symlinks": true,
+    "no_empty_distribution_files": true,
+    "privacy_pattern_findings": 0,
+    "portable_copy_to_alternate_home": true,
+    "gitignore_cases": 9,
+    "kitty_palette_matches_native_template_with_attribution": true
+  },
+  "historical_native_generation": "previous validation retained; no new activation or commit performed",
+  "git": {
+    "branch": "main",
+    "tracked_files": 0,
+    "untracked_files": 45,
+    "commits": 0,
+    "tags": 0,
+    "remotes": 0
+  },
+  "screenshots": "no_real_images_captured_or_approved",
+  "manual_tests": "pending_specific_checks_and_not_verifiable_graphically_here",
+  "publication": "not_authorized",
+  "system_protection": {
+    "entries_checked": 175,
+    "differences": 0
+  },
+  "release_policy": {
+    "license_scope": "original_code_configuration_documentation_prompts_where_licensable",
+    "preview": "provisional_preview_png_accepted",
+    "manual_tests": "accepted_as_known_limitations",
+    "graphics_distribution": "documented_OpenAI_standard_terms_basis_assets_excluded_from_MIT"
+  }
+}

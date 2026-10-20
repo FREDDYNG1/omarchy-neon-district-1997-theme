@@ -1,0 +1,281 @@
+{
+  "version": "1.0.0",
+  "status": "LOCAL_INITIAL_COMMIT_READY_FOR_REMOTE_PUBLICATION_AUTHORIZATION",
+  "license": "MIT; Copyright (c) 2026 Litotep",
+  "mit_scope": "original_code_configuration_documentation_prompts_where_licensable",
+  "graphics_scope": "excluded_from_MIT",
+  "preview": "approved_existing_preview_png_provisional",
+  "manual_tests": "accepted_as_known_limitations",
+  "audit_runs_this_closure": 1,
+  "checks": {
+    "privacy_pattern_findings": 0,
+    "no_external_symlinks": true,
+    "no_empty_files": true,
+    "local_markdown_references": true,
+    "toml_json": true,
+    "approved_wallpaper_bytes_unchanged": true,
+    "approved_preview_bytes_unchanged": true,
+    "previous_image_and_native_generation_validations": "reused without rerunning",
+    "third_party_notice_preserved": true,
+    "audited_paths_match_git_index": true,
+    "index_bytes_match_audited_files": true,
+    "git_diff_cached_check": true,
+    "git_fsck": true,
+    "legal_document_delta_checked": true,
+    "previous_full_audit_reused": true
+  },
+  "critical_blockers": [],
+  "commit_created": true,
+  "tag_created": false,
+  "remote_created": false,
+  "push_executed": false,
+  "candidate_files": 46,
+  "files": [
+    {
+      "file": ".gitignore",
+      "bytes": 452,
+      "sha256": "730542c5202e2c60f7b09a4ebc88b627590ecf659fc207f68c2f396856501617"
+    },
+    {
+      "file": "CHANGELOG.md",
+      "bytes": 2243,
+      "sha256": "b1ab3c9f9b4dccda89b15381eab2cdbf414c8c503e342c7c7869cfc2aeff2984"
+    },
+    {
+      "file": "CONTRIBUTING.md",
+      "bytes": 1304,
+      "sha256": "8dea69dfd4e4fe781b0e22db2b3b6f765c39ef62e343bfb7264d629142230a2c"
+    },
+    {
+      "file": "LICENSE",
+      "bytes": 1064,
+      "sha256": "ea2307a2c965caadd44e2a14fe74fb7f84a5afddfdb825048aaa9c4c89a0d77b"
+    },
+    {
+      "file": "LICENSES/Omarchy-MIT.txt",
+      "bytes": 1061,
+      "sha256": "385b10b5f00b4c5a29d621886dec53fa27a324453f76678ec8e36485485b881c"
+    },
+    {
+      "file": "README.md",
+      "bytes": 7901,
+      "sha256": "c399b2c865f8bf214b49b52494c59ee8fe73aca8e0d2106ede06680b32951a8e"
+    },
+    {
+      "file": "backgrounds/README.md",
+      "bytes": 483,
+      "sha256": "43ee9a66fb6d98f6d7c7646b998928a172db7f3e3f629131aaca70c9aea4bcc0"
+    },
+    {
+      "file": "backgrounds/cyber-train.webp",
+      "bytes": 507996,
+      "sha256": "b3d359fa948ab998ad4e4568d54a01be886fe236e0e7db61716d224b7eccf17a"
+    },
+    {
+      "file": "backgrounds/data-rain.webp",
+      "bytes": 218406,
+      "sha256": "56d05fee5d9d3f6aac911167f72338974af8237dea7b7f1cd8a00b2f64a20ae5"
+    },
+    {
+      "file": "backgrounds/industrial-core.webp",
+      "bytes": 624682,
+      "sha256": "c628735b9eebf93ad1a6597b88c50127184dc482328b4660955520cc3a1f6695"
+    },
+    {
+      "file": "backgrounds/neon-alley.webp",
+      "bytes": 531024,
+      "sha256": "176b9c768729e352d6b413cc6d4952706c31ed8e417fa54c89fa429d44d2e681"
+    },
+    {
+      "file": "backgrounds/night-market.webp",
+      "bytes": 721460,
+      "sha256": "89941f3f48c5cbbbba50a6c01ef2126a51a5ebc56e3abdc40bf74d41aa561bd8"
+    },
+    {
+      "file": "backgrounds/retro-terminal.webp",
+      "bytes": 429710,
+      "sha256": "445bbe2c81d7b36ce02218358004b356b0b964d043bb1ba292e53f66fd7a4850"
+    },
+    {
+      "file": "backgrounds/skyline-1997.webp",
+      "bytes": 360478,
+      "sha256": "57736008fa1f6e4ed46cc3e1f5bb844c48dc39f7f65ebff139edb9d312eff2e5"
+    },
+    {
+      "file": "backgrounds/synth-city.webp",
+      "bytes": 502942,
+      "sha256": "d02cb0a5a6d034e66fbda5740ad3135418d0ead8724267be584015d09fc48445"
+    },
+    {
+      "file": "colors.toml",
+      "bytes": 726,
+      "sha256": "4dbffd6779912a3c4b712017b27533386948f16d96eb515f167db79eb8ee929e"
+    },
+    {
+      "file": "docs/ASSET-LICENSING.md",
+      "bytes": 6500,
+      "sha256": "876326d01e786f3886b95bceb574e23b9b659bb2f41e1dfe9dce56efb8d86f82"
+    },
+    {
+      "file": "docs/THIRD-PARTY.md",
+      "bytes": 2682,
+      "sha256": "a3ab5659f91c19a1649fa4b4d174c0499b739e188734e23699bd48d93b1b0a43"
+    },
+    {
+      "file": "docs/compatibility.md",
+      "bytes": 2491,
+      "sha256": "de2e35739c390e0850e6d8f57b0841b4cef75024cc9bd272a25b8716f765e894"
+    },
+    {
+      "file": "docs/distribution-audit.json",
+      "bytes": 905,
+      "sha256": "4df44e5f3da2ae73b5236ad9c3c62b7ae8493cc03602efb063cbbe78faa0e8c7"
+    },
+    {
+      "file": "docs/install-and-restore.md",
+      "bytes": 4264,
+      "sha256": "d24df3649358cc2340757d296388666ab788c487d02480272abcfa27c432d000"
+    },
+    {
+      "file": "docs/licensing.md",
+      "bytes": 1691,
+      "sha256": "72060e341bb18d420b8af8aaefd8046fbb9cbf12d3f585ab96097ac746699bfb"
+    },
+    {
+      "file": "docs/manual-tests.md",
+      "bytes": 3589,
+      "sha256": "a523b3c8c3cacc16300d4006c2a6ce8fbf7e2cb020950d5e4899efc054f99ad3"
+    },
+    {
+      "file": "docs/privacy-audit.md",
+      "bytes": 5081,
+      "sha256": "bea6204c64453481e93cc5ced2fbc4009aa76e46d674287b20ed3f0d020fb9a0"
+    },
+    {
+      "file": "docs/provenance.md",
+      "bytes": 2881,
+      "sha256": "dd5e969fb5584c9893bed8bdbe7dfbb64583b8ad509c5fb775e4d45468c913e9"
+    },
+    {
+      "file": "docs/release.md",
+      "bytes": 2363,
+      "sha256": "2f48d453a862ffc03d274b3a3a900b1bdcf412695201eee65229ac7ea794bfec"
+    },
+    {
+      "file": "docs/screenshots/README.md",
+      "bytes": 2500,
+      "sha256": "eeb4513f1513c4c44741e1fef1d3b8bc5dd145dc11be347755459e341467cfd6"
+    },
+    {
+      "file": "docs/shell-state-review.md",
+      "bytes": 1882,
+      "sha256": "306049a62a0124afeced2acb7d7d44f24f549f1d470b2e783c5de6568afb15cc"
+    },
+    {
+      "file": "docs/stage5-1-audit.json",
+      "bytes": 1763,
+      "sha256": "3c3bca13794a5cc1e67f040695a8d2526a7f264051a000dacec80f1cb25ffbc1"
+    },
+    {
+      "file": "docs/technical.md",
+      "bytes": 1660,
+      "sha256": "d44918f9b187f304d6404ea8803de883adaa4ee197c20f988914387de52a4b3c"
+    },
+    {
+      "file": "docs/validation.json",
+      "bytes": 1330,
+      "sha256": "cb5486abf5090dec801838a7998b7734535b212755c7366b5afc896ab45d588a"
+    },
+    {
+      "file": "docs/validation.md",
+      "bytes": 2671,
+      "sha256": "9b711344045c5eab99ee224e03b7f8706e2e289d3b5a708e0cdddcd5a80ed6f6"
+    },
+    {
+      "file": "docs/wallpaper-prompts.md",
+      "bytes": 11934,
+      "sha256": "cce7c64ceccd8f62faa6b30c7e543427256d27c879d9735ea50c8e45d88364e7"
+    },
+    {
+      "file": "docs/wallpapers.json",
+      "bytes": 7946,
+      "sha256": "ea571c148afc8f4ae185c4033cb0876930c4437dfa33b5bbad8fba0ec33fdf6d"
+    },
+    {
+      "file": "docs/wallpapers.sha256",
+      "bytes": 765,
+      "sha256": "aad65565a99c018a5309123b5cd43350b82c92c837ad2ecc176f9164738e6ba1"
+    },
+    {
+      "file": "extras/kitty-palette.conf",
+      "bytes": 444,
+      "sha256": "296546df3406c8df8c53308fb8ca666285047b2341a68d830fb553183f7b13e2"
+    },
+    {
+      "file": "extras/kitty-preview.conf",
+      "bytes": 313,
+      "sha256": "bb2b48caf4eda2f1dc45a24b9e5928f43ff784c23d6d8e0a634b736c8a15df56"
+    },
+    {
+      "file": "icons.theme",
+      "bytes": 18,
+      "sha256": "0a873dd45b32e5588ea77a03b0b887eb43374586bec0a47c090163537221b3d1"
+    },
+    {
+      "file": "preview.png",
+      "bytes": 1615739,
+      "sha256": "642bcc2d9b233d30a5363716e4fc9755e1687946c5681bfd5dfb2f76d748ec14"
+    },
+    {
+      "file": "shell.launcher.toml",
+      "bytes": 346,
+      "sha256": "45859096cbaf5f69ce1c89a0f6173c77b12935054ce86acca0c5fb86b71882c4"
+    },
+    {
+      "file": "shell.lock.toml",
+      "bytes": 281,
+      "sha256": "ff7909972c15bb2af027c57bca5c8912ef40828bb4dd631876e47e657477e17b"
+    },
+    {
+      "file": "shell.menu.toml",
+      "bytes": 342,
+      "sha256": "13447031bef55a2fb938cb330000758acad9224e6d7ea76d1b8449c6b92dc717"
+    },
+    {
+      "file": "shell.notifications.toml",
+      "bytes": 154,
+      "sha256": "1a1c28b8f987f760ed6530c3f755960685065759b5646d5e2f216a4a92ca926b"
+    },
+    {
+      "file": "shell.popups.toml",
+      "bytes": 125,
+      "sha256": "bb070c6fc78435f7e4547cf4d5d53333454808d975f9aa6f0fe73ee7185c315c"
+    },
+    {
+      "file": "shell.tooltip.toml",
+      "bytes": 137,
+      "sha256": "aadb076d378e5c63ee2d192bce0baee332d1310928757bac40104f071cd7c6ec"
+    }
+  ],
+  "self_hash_note": "This report is listed in Git but excludes its own hash to avoid self-reference.",
+  "git": {
+    "branch": "main",
+    "tracked_files": 46,
+    "commits": 1,
+    "tags": 0,
+    "remotes": 0
+  },
+  "graphics_review": {
+    "basis": "OpenAI standard consumer and business terms, documented original generation and authorized project distribution",
+    "assets_mit": false,
+    "automatic_copyright_or_exclusivity_claimed": false,
+    "material_legal_blocker_identified": false,
+    "details": "docs/ASSET-LICENSING.md"
+  },
+  "author_identity": {
+    "name": "Litotep",
+    "email_source": "explicit_user_message",
+    "email_is_noreply": false,
+    "global_configuration_modified": false
+  }
+}

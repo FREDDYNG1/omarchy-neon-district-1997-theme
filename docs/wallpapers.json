@@ -1,0 +1,274 @@
+{
+  "collection": "Neon District 1997",
+  "version": "1.0.0",
+  "release_status": "prepared_not_published",
+  "updated": "2026-10-20",
+  "generator": "image_gen",
+  "wallpapers": [
+    {
+      "name": "neon-alley",
+      "file": "backgrounds/neon-alley.webp",
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "source_sha256": "2cc2994c0d77c395f8afe98c33387a3f3ac645043f98664cc145fd1ee6411449",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "format": "WEBP",
+      "bytes": 531024,
+      "sha256": "176b9c768729e352d6b413cc6d4952706c31ed8e417fa54c89fa429d44d2e681",
+      "export": {
+        "quality": 95,
+        "method": 6,
+        "lossless": false,
+        "sharpen": false
+      },
+      "sr_dimensions": [
+        6688,
+        3764
+      ],
+      "master_sha256": "692cb73a816367bba444972ec9747b4ce1d405c5d1d5db5ff393ef08a64b7ea0",
+      "visual_review": "approved_by_user"
+    },
+    {
+      "name": "skyline-1997",
+      "file": "backgrounds/skyline-1997.webp",
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "source_sha256": "c7cd71c6f80c116763a0d9adb5598451280f5dec4220828105a389b48b3c3352",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "format": "WEBP",
+      "bytes": 360478,
+      "sha256": "57736008fa1f6e4ed46cc3e1f5bb844c48dc39f7f65ebff139edb9d312eff2e5",
+      "export": {
+        "quality": 95,
+        "method": 6,
+        "lossless": false,
+        "sharpen": false
+      },
+      "sr_dimensions": [
+        6688,
+        3764
+      ],
+      "master_sha256": "28e6c9a94904b32cc8aab6b0826e68cecb442a6abc19726cdaef8df6a0d10318",
+      "visual_review": "approved_by_user"
+    },
+    {
+      "name": "retro-terminal",
+      "file": "backgrounds/retro-terminal.webp",
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "source_sha256": "e0240b5915b8892aadae43c6cc6f2c6041b0787cf52d64a38b1e3045ef2e12d5",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "format": "WEBP",
+      "bytes": 429710,
+      "sha256": "445bbe2c81d7b36ce02218358004b356b0b964d043bb1ba292e53f66fd7a4850",
+      "export": {
+        "quality": 95,
+        "method": 6,
+        "lossless": false,
+        "sharpen": false
+      },
+      "sr_dimensions": [
+        6688,
+        3764
+      ],
+      "master_sha256": "4f171064cabbe83ee2c12f140112b6ebb94182d5f3d567053272b3e809969028",
+      "visual_review": "approved_by_user"
+    },
+    {
+      "name": "night-market",
+      "file": "backgrounds/night-market.webp",
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "source_sha256": "e60f41d2933c31a3edd428a20e5d7163ab681b390ecd7308f4e1783ab7bbbfbf",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "format": "WEBP",
+      "bytes": 721460,
+      "sha256": "89941f3f48c5cbbbba50a6c01ef2126a51a5ebc56e3abdc40bf74d41aa561bd8",
+      "export": {
+        "quality": 95,
+        "method": 6,
+        "lossless": false,
+        "sharpen": false
+      },
+      "sr_dimensions": [
+        6688,
+        3764
+      ],
+      "master_sha256": "12b0027d4d168c6382e440ac682e207fcfd6bc19f53df887b0a7e4099d7e30a0",
+      "visual_review": "approved_by_user"
+    },
+    {
+      "name": "cyber-train",
+      "file": "backgrounds/cyber-train.webp",
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "source_sha256": "79199bb6014bbd31cc85b23e3c7aa51d7cdd484dd72c62edc571a63f220930b3",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "format": "WEBP",
+      "bytes": 507996,
+      "sha256": "b3d359fa948ab998ad4e4568d54a01be886fe236e0e7db61716d224b7eccf17a",
+      "export": {
+        "quality": 95,
+        "method": 6,
+        "lossless": false,
+        "sharpen": false
+      },
+      "sr_dimensions": [
+        6688,
+        3764
+      ],
+      "master_sha256": "569e627b888e94e95eff7797d53ef8613e15e2ef789ef13c8ff93e8d46537357",
+      "visual_review": "approved_by_user"
+    },
+    {
+      "name": "industrial-core",
+      "file": "backgrounds/industrial-core.webp",
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "source_sha256": "79638424705d67034ab403110ab145bbc30457e48116f6748e942d5cfe3dd736",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "format": "WEBP",
+      "bytes": 624682,
+      "sha256": "c628735b9eebf93ad1a6597b88c50127184dc482328b4660955520cc3a1f6695",
+      "export": {
+        "quality": 95,
+        "method": 6,
+        "lossless": false,
+        "sharpen": false
+      },
+      "sr_dimensions": [
+        6688,
+        3764
+      ],
+      "master_sha256": "60e8a8c18ed344dbc1c1d5355e5d2150d503f4cc0ad99e79e4c708ab129df22a",
+      "visual_review": "approved_by_user"
+    },
+    {
+      "name": "data-rain",
+      "file": "backgrounds/data-rain.webp",
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "source_sha256": "d95f11f52e9b4ecaddcda88e782ea36785bcdc3216940b0b86c93b5f949151c6",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "format": "WEBP",
+      "bytes": 218406,
+      "sha256": "56d05fee5d9d3f6aac911167f72338974af8237dea7b7f1cd8a00b2f64a20ae5",
+      "export": {
+        "quality": 95,
+        "method": 6,
+        "lossless": false,
+        "sharpen": false
+      },
+      "sr_dimensions": [
+        6688,
+        3764
+      ],
+      "master_sha256": "00999c57cb8827f1cedd9c99ee154a8c173f3579f5eece27785c9a7ea3cf7f1f",
+      "visual_review": "approved_by_user"
+    },
+    {
+      "name": "synth-city",
+      "file": "backgrounds/synth-city.webp",
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "source_sha256": "a2500aa0c1615c2254432a98877b98367640643253598571d23cb2d9905bdecb",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "format": "WEBP",
+      "bytes": 502942,
+      "sha256": "d02cb0a5a6d034e66fbda5740ad3135418d0ead8724267be584015d09fc48445",
+      "export": {
+        "quality": 95,
+        "method": 6,
+        "lossless": false,
+        "sharpen": false
+      },
+      "sr_dimensions": [
+        6688,
+        3764
+      ],
+      "master_sha256": "a73c07764d0f4208395f25aea0ec234e3a65272ebf904a5fa1b5fb93c0b9c493",
+      "visual_review": "approved_by_user"
+    }
+  ],
+  "processing": {
+    "backend": "upscayl-ncnn",
+    "version": "20251207-174704",
+    "backend_url": "https://github.com/upscayl/upscayl-ncnn/releases/download/20251207-174704/upscayl-bin-20251207-174704-linux.zip",
+    "binary_sha256": "8b0980197d5bdb6fc4fbc0cc50dae721f3df18d91d0d912ec0a3aeea6495367e",
+    "models": {
+      "realesrgan-x4plus.param": {
+        "url": "https://raw.githubusercontent.com/upscayl/upscayl/74f6e53f1984fa8c19df5e1f1a2c20f8f7c7a3f1/resources/models/realesrgan-x4plus.param",
+        "commit": "74f6e53f1984fa8c19df5e1f1a2c20f8f7c7a3f1",
+        "git_blob": "d14d62ebb815bdd522ed112e67695b3377f86ca0",
+        "verification": "Git blob SHA-1 de la API oficial (no es una firma)",
+        "sha256": "35330ececcea33b6c397a72548e788d5d53becee4734c50b7fada36e89f10a86",
+        "bytes": 116029
+      },
+      "realesrgan-x4plus.bin": {
+        "url": "https://raw.githubusercontent.com/upscayl/upscayl/74f6e53f1984fa8c19df5e1f1a2c20f8f7c7a3f1/resources/models/realesrgan-x4plus.bin",
+        "commit": "74f6e53f1984fa8c19df5e1f1a2c20f8f7c7a3f1",
+        "git_blob": "5cea94783710c25d6fffa9fe9b59999498aec3d4",
+        "verification": "Git blob SHA-1 de la API oficial (no es una firma)",
+        "sha256": "713ee713b0353afaa27976f0563a64a5043bd70b9bd8936c2e26e25ebcdbcddf",
+        "bytes": 33424520
+      }
+    },
+    "model": "realesrgan-x4plus",
+    "tile": 128,
+    "jobs": "1:1:1",
+    "scale": 4,
+    "tta": false,
+    "sharpen": false,
+    "intermediate_dimensions": [
+      6688,
+      3764
+    ],
+    "final_dimensions": [
+      1920,
+      1080
+    ],
+    "resize": "Lanczos proporcional para cubrir con recorte central mínimo; sin estirar",
+    "encoding": "WebP Q95, método 6",
+    "native_4k_generation": false
+  }
+}

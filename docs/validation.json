@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-20",
+  "version": "1.0.0",
+  "omarchy_package": "4.0.6-1",
+  "checks": {
+    "eight_webp_valid": true,
+    "wallpaper_hashes_dimensions_and_metadata": true,
+    "wallpapers_identical_to_approved_package": true,
+    "toml_and_palette": true,
+    "icons_format_and_local_availability": true,
+    "native_cloned_theme_staging": true,
+    "native_generation_lua_json_toml_and_quickshell_keys": true,
+    "independent_kitty_parser": true,
+    "no_symlinks_or_empty_distribution_files": true,
+    "portable_offline_install_copy": true,
+    "native_repository_slug": true,
+    "relative_markdown_links": true
+  },
+  "wallpaper_count": 8,
+  "wallpaper_total_bytes": 3896698,
+  "manual_tests": "pending_specific_checks_see_manual-tests.md",
+  "desktop_screenshots": "pending_reviewed_images",
+  "license": "MIT_finalized_2026_Litotep_assets_separate",
+  "scope": "Offline staging and native template generation in an isolated HOME; no live activation or IPC tests.",
+  "license_review_stage": "5.2",
+  "release_policy": {
+    "license_scope": "original_code_configuration_documentation_prompts_where_licensable",
+    "preview": "provisional_preview_png_accepted",
+    "manual_tests": "accepted_as_known_limitations",
+    "graphics_distribution": "documented_OpenAI_standard_terms_basis_assets_excluded_from_MIT"
+  }
+}
